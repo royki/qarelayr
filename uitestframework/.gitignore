@@ -1,0 +1,15 @@
+*.class
+*.log
+*.json
+*.txt
+*.log
+*.sh
+*.classpath     
+*.project       
+.settings/
+test-output/
+target/
+logs/
+bin/
+.cache*
+.history
