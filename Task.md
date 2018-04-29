@@ -14,7 +14,8 @@ team. The team builds a front-end application using REST APIs.
     + For UI test - 
         * Selenium Web Driver with Java(Python)
         * Maven build tool
-        * TestNG, Surefire-plugin to generate test report
+        * TestNG library for assertion based check and verification.
+        * Surefire-plugin for testsuite, test configuration and to generate test report
         * logback/sl4j API for logs
         * Jenkins to automate the regression, scheduling, triggering build nightly.
     + For REST API test - 
