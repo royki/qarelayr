@@ -3,7 +3,7 @@ package com.qa.uitestframework.util;
 import com.qa.uitestframework.base.TestBase;
 
 /**
- * @author croy
+ * @author royki
  *
  */
 
